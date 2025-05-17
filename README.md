@@ -24,9 +24,7 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223230191
 ### NAME: SANJTTH.R
- ![sign](https://github.com/user-attachments/assets/87c0b1bc-0954-4179-b86d-383a24a7682c)
-![ac](https://github.com/user-attachments/assets/930afb20-7680-4d06-ad77-192ccf55b973)
-
+![image](https://github.com/user-attachments/assets/bdb49763-474c-4d28-9c3c-75b82ed28b17)
 
 
 ## RESULT

@@ -23,7 +23,7 @@ Include the commands used in the Experiment.
 
 ## OUTPUT
 ### REG NUMBER: 212223230191
-### NAME: AFIFA A
+### NAME: SANJTTH.R
  ![sign](https://github.com/user-attachments/assets/87c0b1bc-0954-4179-b86d-383a24a7682c)
 ![ac](https://github.com/user-attachments/assets/930afb20-7680-4d06-ad77-192ccf55b973)
 
